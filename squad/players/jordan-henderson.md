@@ -1,7 +1,8 @@
 # Jordan Henderson
 
-<!-- Photo: add squad/photos/jordan-henderson.jpg then uncomment the line below -->
-<!-- ![Jordan Henderson](../photos/jordan-henderson.jpg) -->
+<img src="../photos/jordan-henderson.png" alt="Jordan Henderson" width="160">
+
+_Placeholder avatar — replace `squad/photos/jordan-henderson.png` with a real photo to update it._
 
 | | |
 |---|---|

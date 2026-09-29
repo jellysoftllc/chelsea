@@ -1,7 +1,8 @@
 # Jamie Gittens
 
-<!-- Photo: add squad/photos/jamie-gittens.jpg then uncomment the line below -->
-<!-- ![Jamie Gittens](../photos/jamie-gittens.jpg) -->
+<img src="../photos/jamie-gittens.png" alt="Jamie Gittens" width="160">
+
+_Placeholder avatar — replace `squad/photos/jamie-gittens.png` with a real photo to update it._
 
 | | |
 |---|---|

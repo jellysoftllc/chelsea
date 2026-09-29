@@ -1,7 +1,8 @@
 # Emiliano Martínez
 
-<!-- Photo: add squad/photos/emiliano-martinez.jpg then uncomment the line below -->
-<!-- ![Emiliano Martínez](../photos/emiliano-martinez.jpg) -->
+<img src="../photos/emiliano-martinez.png" alt="Emiliano Martínez" width="160">
+
+_Placeholder avatar — replace `squad/photos/emiliano-martinez.png` with a real photo to update it._
 
 | | |
 |---|---|

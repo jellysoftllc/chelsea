@@ -1,7 +1,8 @@
 # Cole Palmer
 
-<!-- Photo: add squad/photos/cole-palmer.jpg then uncomment the line below -->
-<!-- ![Cole Palmer](../photos/cole-palmer.jpg) -->
+<img src="../photos/cole-palmer.png" alt="Cole Palmer" width="160">
+
+_Placeholder avatar — replace `squad/photos/cole-palmer.png` with a real photo to update it._
 
 | | |
 |---|---|

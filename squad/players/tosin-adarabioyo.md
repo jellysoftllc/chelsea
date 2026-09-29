@@ -1,7 +1,8 @@
 # Tosin Adarabioyo
 
-<!-- Photo: add squad/photos/tosin-adarabioyo.jpg then uncomment the line below -->
-<!-- ![Tosin Adarabioyo](../photos/tosin-adarabioyo.jpg) -->
+<img src="../photos/tosin-adarabioyo.png" alt="Tosin Adarabioyo" width="160">
+
+_Placeholder avatar — replace `squad/photos/tosin-adarabioyo.png` with a real photo to update it._
 
 | | |
 |---|---|

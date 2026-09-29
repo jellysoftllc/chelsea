@@ -1,7 +1,8 @@
 # Wesley Fofana
 
-<!-- Photo: add squad/photos/wesley-fofana.jpg then uncomment the line below -->
-<!-- ![Wesley Fofana](../photos/wesley-fofana.jpg) -->
+<img src="../photos/wesley-fofana.png" alt="Wesley Fofana" width="160">
+
+_Placeholder avatar — replace `squad/photos/wesley-fofana.png` with a real photo to update it._
 
 | | |
 |---|---|

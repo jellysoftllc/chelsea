@@ -1,7 +1,8 @@
 # Pedro Neto
 
-<!-- Photo: add squad/photos/pedro-neto.jpg then uncomment the line below -->
-<!-- ![Pedro Neto](../photos/pedro-neto.jpg) -->
+<img src="../photos/pedro-neto.png" alt="Pedro Neto" width="160">
+
+_Placeholder avatar — replace `squad/photos/pedro-neto.png` with a real photo to update it._
 
 | | |
 |---|---|

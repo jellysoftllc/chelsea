@@ -1,7 +1,8 @@
 # Teddy Sharman-Lowe
 
-<!-- Photo: add squad/photos/teddy-sharman-lowe.jpg then uncomment the line below -->
-<!-- ![Teddy Sharman-Lowe](../photos/teddy-sharman-lowe.jpg) -->
+<img src="../photos/teddy-sharman-lowe.png" alt="Teddy Sharman-Lowe" width="160">
+
+_Placeholder avatar — replace `squad/photos/teddy-sharman-lowe.png` with a real photo to update it._
 
 | | |
 |---|---|

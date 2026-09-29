@@ -1,7 +1,8 @@
 # Gabriel Slonina
 
-<!-- Photo: add squad/photos/gabriel-slonina.jpg then uncomment the line below -->
-<!-- ![Gabriel Slonina](../photos/gabriel-slonina.jpg) -->
+<img src="../photos/gabriel-slonina.png" alt="Gabriel Slonina" width="160">
+
+_Placeholder avatar — replace `squad/photos/gabriel-slonina.png` with a real photo to update it._
 
 | | |
 |---|---|

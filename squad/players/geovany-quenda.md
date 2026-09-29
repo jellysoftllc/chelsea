@@ -1,7 +1,8 @@
 # Geovany Quenda
 
-<!-- Photo: add squad/photos/geovany-quenda.jpg then uncomment the line below -->
-<!-- ![Geovany Quenda](../photos/geovany-quenda.jpg) -->
+<img src="../photos/geovany-quenda.png" alt="Geovany Quenda" width="160">
+
+_Placeholder avatar — replace `squad/photos/geovany-quenda.png` with a real photo to update it._
 
 | | |
 |---|---|

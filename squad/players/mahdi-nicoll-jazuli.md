@@ -1,7 +1,8 @@
 # Mahdi Nicoll-Jazuli
 
-<!-- Photo: add squad/photos/mahdi-nicoll-jazuli.jpg then uncomment the line below -->
-<!-- ![Mahdi Nicoll-Jazuli](../photos/mahdi-nicoll-jazuli.jpg) -->
+<img src="../photos/mahdi-nicoll-jazuli.png" alt="Mahdi Nicoll-Jazuli" width="160">
+
+_Placeholder avatar — replace `squad/photos/mahdi-nicoll-jazuli.png` with a real photo to update it._
 
 | | |
 |---|---|

@@ -1,7 +1,8 @@
 # Valentín Barco
 
-<!-- Photo: add squad/photos/valentin-barco.jpg then uncomment the line below -->
-<!-- ![Valentín Barco](../photos/valentin-barco.jpg) -->
+<img src="../photos/valentin-barco.png" alt="Valentín Barco" width="160">
+
+_Placeholder avatar — replace `squad/photos/valentin-barco.png` with a real photo to update it._
 
 | | |
 |---|---|

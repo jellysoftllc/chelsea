@@ -1,7 +1,8 @@
 # Morgan Rogers
 
-<!-- Photo: add squad/photos/morgan-rogers.jpg then uncomment the line below -->
-<!-- ![Morgan Rogers](../photos/morgan-rogers.jpg) -->
+<img src="../photos/morgan-rogers.png" alt="Morgan Rogers" width="160">
+
+_Placeholder avatar — replace `squad/photos/morgan-rogers.png` with a real photo to update it._
 
 | | |
 |---|---|

@@ -1,7 +1,8 @@
 # Emmanuel Emegha
 
-<!-- Photo: add squad/photos/emmanuel-emegha.jpg then uncomment the line below -->
-<!-- ![Emmanuel Emegha](../photos/emmanuel-emegha.jpg) -->
+<img src="../photos/emmanuel-emegha.png" alt="Emmanuel Emegha" width="160">
+
+_Placeholder avatar — replace `squad/photos/emmanuel-emegha.png` with a real photo to update it._
 
 | | |
 |---|---|

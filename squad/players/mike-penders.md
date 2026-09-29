@@ -1,7 +1,8 @@
 # Mike Penders
 
-<!-- Photo: add squad/photos/mike-penders.jpg then uncomment the line below -->
-<!-- ![Mike Penders](../photos/mike-penders.jpg) -->
+<img src="../photos/mike-penders.png" alt="Mike Penders" width="160">
+
+_Placeholder avatar — replace `squad/photos/mike-penders.png` with a real photo to update it._
 
 | | |
 |---|---|

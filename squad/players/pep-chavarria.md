@@ -1,7 +1,8 @@
 # Pep Chavarría
 
-<!-- Photo: add squad/photos/pep-chavarria.jpg then uncomment the line below -->
-<!-- ![Pep Chavarría](../photos/pep-chavarria.jpg) -->
+<img src="../photos/pep-chavarria.png" alt="Pep Chavarría" width="160">
+
+_Placeholder avatar — replace `squad/photos/pep-chavarria.png` with a real photo to update it._
 
 | | |
 |---|---|

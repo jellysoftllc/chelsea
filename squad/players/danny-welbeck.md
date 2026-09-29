@@ -1,7 +1,8 @@
 # Danny Welbeck
 
-<!-- Photo: add squad/photos/danny-welbeck.jpg then uncomment the line below -->
-<!-- ![Danny Welbeck](../photos/danny-welbeck.jpg) -->
+<img src="../photos/danny-welbeck.png" alt="Danny Welbeck" width="160">
+
+_Placeholder avatar — replace `squad/photos/danny-welbeck.png` with a real photo to update it._
 
 | | |
 |---|---|

@@ -1,7 +1,8 @@
 # Olutayo Subuloye
 
-<!-- Photo: add squad/photos/olutayo-subuloye.jpg then uncomment the line below -->
-<!-- ![Olutayo Subuloye](../photos/olutayo-subuloye.jpg) -->
+<img src="../photos/olutayo-subuloye.png" alt="Olutayo Subuloye" width="160">
+
+_Placeholder avatar — replace `squad/photos/olutayo-subuloye.png` with a real photo to update it._
 
 | | |
 |---|---|

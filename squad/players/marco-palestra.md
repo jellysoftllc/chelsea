@@ -1,7 +1,8 @@
 # Marco Palestra
 
-<!-- Photo: add squad/photos/marco-palestra.jpg then uncomment the line below -->
-<!-- ![Marco Palestra](../photos/marco-palestra.jpg) -->
+<img src="../photos/marco-palestra.png" alt="Marco Palestra" width="160">
+
+_Placeholder avatar — replace `squad/photos/marco-palestra.png` with a real photo to update it._
 
 | | |
 |---|---|

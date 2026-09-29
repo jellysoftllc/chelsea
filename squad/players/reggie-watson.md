@@ -1,7 +1,8 @@
 # Reggie Watson
 
-<!-- Photo: add squad/photos/reggie-watson.jpg then uncomment the line below -->
-<!-- ![Reggie Watson](../photos/reggie-watson.jpg) -->
+<img src="../photos/reggie-watson.png" alt="Reggie Watson" width="160">
+
+_Placeholder avatar — replace `squad/photos/reggie-watson.png` with a real photo to update it._
 
 | | |
 |---|---|

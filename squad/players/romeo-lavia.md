@@ -1,7 +1,8 @@
 # Roméo Lavia
 
-<!-- Photo: add squad/photos/romeo-lavia.jpg then uncomment the line below -->
-<!-- ![Roméo Lavia](../photos/romeo-lavia.jpg) -->
+<img src="../photos/romeo-lavia.png" alt="Roméo Lavia" width="160">
+
+_Placeholder avatar — replace `squad/photos/romeo-lavia.png` with a real photo to update it._
 
 | | |
 |---|---|

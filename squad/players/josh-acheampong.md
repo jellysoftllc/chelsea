@@ -1,7 +1,8 @@
 # Josh Acheampong
 
-<!-- Photo: add squad/photos/josh-acheampong.jpg then uncomment the line below -->
-<!-- ![Josh Acheampong](../photos/josh-acheampong.jpg) -->
+<img src="../photos/josh-acheampong.png" alt="Josh Acheampong" width="160">
+
+_Placeholder avatar — replace `squad/photos/josh-acheampong.png` with a real photo to update it._
 
 | | |
 |---|---|

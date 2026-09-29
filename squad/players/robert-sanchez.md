@@ -1,7 +1,8 @@
 # Robert Sánchez
 
-<!-- Photo: add squad/photos/robert-sanchez.jpg then uncomment the line below -->
-<!-- ![Robert Sánchez](../photos/robert-sanchez.jpg) -->
+<img src="../photos/robert-sanchez.png" alt="Robert Sánchez" width="160">
+
+_Placeholder avatar — replace `squad/photos/robert-sanchez.png` with a real photo to update it._
 
 | | |
 |---|---|

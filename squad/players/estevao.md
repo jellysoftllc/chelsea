@@ -1,7 +1,8 @@
 # Estêvão
 
-<!-- Photo: add squad/photos/estevao.jpg then uncomment the line below -->
-<!-- ![Estêvão](../photos/estevao.jpg) -->
+<img src="../photos/estevao.png" alt="Estêvão" width="160">
+
+_Placeholder avatar — replace `squad/photos/estevao.png` with a real photo to update it._
 
 | | |
 |---|---|

@@ -1,7 +1,8 @@
 # João Pedro
 
-<!-- Photo: add squad/photos/joao-pedro.jpg then uncomment the line below -->
-<!-- ![João Pedro](../photos/joao-pedro.jpg) -->
+<img src="../photos/joao-pedro.png" alt="João Pedro" width="160">
+
+_Placeholder avatar — replace `squad/photos/joao-pedro.png` with a real photo to update it._
 
 | | |
 |---|---|

@@ -1,7 +1,8 @@
 # Reece James
 
-<!-- Photo: add squad/photos/reece-james.jpg then uncomment the line below -->
-<!-- ![Reece James](../photos/reece-james.jpg) -->
+<img src="../photos/reece-james.png" alt="Reece James" width="160">
+
+_Placeholder avatar — replace `squad/photos/reece-james.png` with a real photo to update it._
 
 | | |
 |---|---|

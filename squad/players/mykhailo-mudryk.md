@@ -1,7 +1,8 @@
 # Mykhailo Mudryk
 
-<!-- Photo: add squad/photos/mykhailo-mudryk.jpg then uncomment the line below -->
-<!-- ![Mykhailo Mudryk](../photos/mykhailo-mudryk.jpg) -->
+<img src="../photos/mykhailo-mudryk.png" alt="Mykhailo Mudryk" width="160">
+
+_Placeholder avatar — replace `squad/photos/mykhailo-mudryk.png` with a real photo to update it._
 
 | | |
 |---|---|

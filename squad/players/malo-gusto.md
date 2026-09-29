@@ -1,7 +1,8 @@
 # Malo Gusto
 
-<!-- Photo: add squad/photos/malo-gusto.jpg then uncomment the line below -->
-<!-- ![Malo Gusto](../photos/malo-gusto.jpg) -->
+<img src="../photos/malo-gusto.png" alt="Malo Gusto" width="160">
+
+_Placeholder avatar — replace `squad/photos/malo-gusto.png` with a real photo to update it._
 
 | | |
 |---|---|

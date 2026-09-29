@@ -1,7 +1,8 @@
 # Aarón Anselmino
 
-<!-- Photo: add squad/photos/aaron-anselmino.jpg then uncomment the line below -->
-<!-- ![Aarón Anselmino](../photos/aaron-anselmino.jpg) -->
+<img src="../photos/aaron-anselmino.png" alt="Aarón Anselmino" width="160">
+
+_Placeholder avatar — replace `squad/photos/aaron-anselmino.png` with a real photo to update it._
 
 | | |
 |---|---|

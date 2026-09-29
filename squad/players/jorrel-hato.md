@@ -1,7 +1,8 @@
 # Jorrel Hato
 
-<!-- Photo: add squad/photos/jorrel-hato.jpg then uncomment the line below -->
-<!-- ![Jorrel Hato](../photos/jorrel-hato.jpg) -->
+<img src="../photos/jorrel-hato.png" alt="Jorrel Hato" width="160">
+
+_Placeholder avatar — replace `squad/photos/jorrel-hato.png` with a real photo to update it._
 
 | | |
 |---|---|

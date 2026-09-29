@@ -1,7 +1,8 @@
 # Dário Essugo
 
-<!-- Photo: add squad/photos/dario-essugo.jpg then uncomment the line below -->
-<!-- ![Dário Essugo](../photos/dario-essugo.jpg) -->
+<img src="../photos/dario-essugo.png" alt="Dário Essugo" width="160">
+
+_Placeholder avatar — replace `squad/photos/dario-essugo.png` with a real photo to update it._
 
 | | |
 |---|---|

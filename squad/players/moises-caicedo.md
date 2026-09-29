@@ -1,7 +1,8 @@
 # Moisés Caicedo
 
-<!-- Photo: add squad/photos/moises-caicedo.jpg then uncomment the line below -->
-<!-- ![Moisés Caicedo](../photos/moises-caicedo.jpg) -->
+<img src="../photos/moises-caicedo.png" alt="Moisés Caicedo" width="160">
+
+_Placeholder avatar — replace `squad/photos/moises-caicedo.png` with a real photo to update it._
 
 | | |
 |---|---|

@@ -1,7 +1,8 @@
 # Maxence Lacroix
 
-<!-- Photo: add squad/photos/maxence-lacroix.jpg then uncomment the line below -->
-<!-- ![Maxence Lacroix](../photos/maxence-lacroix.jpg) -->
+<img src="../photos/maxence-lacroix.png" alt="Maxence Lacroix" width="160">
+
+_Placeholder avatar — replace `squad/photos/maxence-lacroix.png` with a real photo to update it._
 
 | | |
 |---|---|

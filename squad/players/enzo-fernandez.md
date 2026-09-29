@@ -1,7 +1,8 @@
 # Enzo Fernández
 
-<!-- Photo: add squad/photos/enzo-fernandez.jpg then uncomment the line below -->
-<!-- ![Enzo Fernández](../photos/enzo-fernandez.jpg) -->
+<img src="../photos/enzo-fernandez.png" alt="Enzo Fernández" width="160">
+
+_Placeholder avatar — replace `squad/photos/enzo-fernandez.png` with a real photo to update it._
 
 | | |
 |---|---|

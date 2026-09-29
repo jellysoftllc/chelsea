@@ -1,7 +1,8 @@
 # Levi Colwill
 
-<!-- Photo: add squad/photos/levi-colwill.jpg then uncomment the line below -->
-<!-- ![Levi Colwill](../photos/levi-colwill.jpg) -->
+<img src="../photos/levi-colwill.png" alt="Levi Colwill" width="160">
+
+_Placeholder avatar — replace `squad/photos/levi-colwill.png` with a real photo to update it._
 
 | | |
 |---|---|
