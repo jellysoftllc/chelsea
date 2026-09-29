@@ -9,6 +9,7 @@ open a pull request and fix it.
 
 ## Contents
 
+- **[squad/index.md](squad/index.md)** — the players: roster, profiles, photos, bios, birthdays.
 - **[tactics/philosophy.md](tactics/philosophy.md)** — how we want to play, in one page.
 - **[tactics/formation.md](tactics/formation.md)** — our base shape and its variations.
 - **[tactics/positions.md](tactics/positions.md)** — role and responsibilities for every position.
