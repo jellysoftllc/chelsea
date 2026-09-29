@@ -1,30 +1,23 @@
-# Chelsea — Team Introductions
+# Chelsea FC — Team Handbook
 
-Welcome to **Chelsea**. This repository is a living directory of the people on the
-team: who they are, what they work on, and how to reach them. It's meant to be
-updated regularly as people join and move on.
+The playing and operating manual for the club. This is the single source of truth
+for how we train, how we set up on match day, what each position is responsible
+for, and the standards we hold each other to.
 
-## What's here
+Keep it short, keep it current. If something here no longer reflects how we play,
+open a pull request and fix it.
 
-- **`team/`** — one profile per team member (Markdown), plus a `_template.md` to copy.
-- **`team/index.md`** — the roster: a quick table of everyone currently on the team.
-- **`alumni/`** — profiles of people who have left, kept for history.
+## Contents
 
-## Adding yourself
+- **[tactics/philosophy.md](tactics/philosophy.md)** — how we want to play, in one page.
+- **[tactics/formation.md](tactics/formation.md)** — our base shape and its variations.
+- **[tactics/positions.md](tactics/positions.md)** — role and responsibilities for every position.
+- **[tactics/set-pieces.md](tactics/set-pieces.md)** — attacking and defending set-piece routines.
+- **[training/schedule.md](training/schedule.md)** — the weekly training plan.
+- **[matchday/routine.md](matchday/routine.md)** — the match-day timeline and instructions.
+- **[code-of-conduct.md](code-of-conduct.md)** — standards on and off the pitch.
 
-1. Copy `team/_template.md` to `team/your-name.md`.
-2. Fill in the sections. Keep it friendly and human — this is an introduction, not a résumé.
-3. Add a row for yourself in `team/index.md`.
-4. Open a pull request.
+## The one-liner
 
-## When someone leaves
-
-1. Move their file from `team/` to `alumni/`.
-2. Remove their row from `team/index.md` (optionally add a line to `alumni/index.md`).
-3. Note their last day at the top of their profile.
-
-## Conventions
-
-- File names are lowercase, hyphenated: `jane-doe.md`.
-- Keep profiles to a single screen where you can.
-- Optional avatar images go in `team/avatars/` named to match the profile file.
+> Defend as a unit, win the ball high, move it fast, and make the pitch big when we
+> have it and small when we don't.
