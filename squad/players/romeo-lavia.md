@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 45 |
 | **Position** | Midfielder |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 6 January 2004 |
 | **Nationality** | Belgium |
 

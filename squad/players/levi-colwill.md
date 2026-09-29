@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 6 |
 | **Position** | Defender |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Left |
 | **Date of birth** | 26 February 2003 |
 | **Nationality** | England |
 

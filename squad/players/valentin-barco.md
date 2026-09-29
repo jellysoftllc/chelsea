@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 4 |
 | **Position** | Midfielder |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Left |
 | **Date of birth** | 23 July 2004 |
 | **Nationality** | Argentina |
 

@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 3 |
 | **Position** | Defender |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 17 December 2000 |
 | **Nationality** | France |
 

@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 14 |
 | **Position** | Midfielder |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 17 June 1990 |
 | **Nationality** | England |
 

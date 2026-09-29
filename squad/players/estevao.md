@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 41 |
 | **Position** | Forward |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Left |
 | **Date of birth** | 24 April 2007 |
 | **Nationality** | Brazil |
 

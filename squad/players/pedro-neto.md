@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 7 |
 | **Position** | Forward |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 9 March 2000 |
 | **Nationality** | Portugal |
 

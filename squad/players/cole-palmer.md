@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 10 |
 | **Position** | Midfielder |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Left |
 | **Date of birth** | 6 May 2002 |
 | **Nationality** | England |
 

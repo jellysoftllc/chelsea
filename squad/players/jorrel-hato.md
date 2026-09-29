@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 21 |
 | **Position** | Defender |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Left |
 | **Date of birth** | 7 March 2006 |
 | **Nationality** | Netherlands |
 

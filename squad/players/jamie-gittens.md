@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 11 |
 | **Position** | Forward |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 4 August 2004 |
 | **Nationality** | England |
 

@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 8 |
 | **Position** | Midfielder |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 17 January 2001 |
 | **Nationality** | Argentina |
 

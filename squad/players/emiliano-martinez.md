@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 26 |
 | **Position** | Goalkeeper |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 2 September 1992 |
 | **Nationality** | Argentina |
 

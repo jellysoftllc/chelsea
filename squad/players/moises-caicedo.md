@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 25 |
 | **Position** | Midfielder |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 2 November 2001 |
 | **Nationality** | Ecuador |
 

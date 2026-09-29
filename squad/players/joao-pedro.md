@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 9 |
 | **Position** | Forward |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 26 September 2001 |
 | **Nationality** | Brazil |
 

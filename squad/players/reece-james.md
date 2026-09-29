@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 24 |
 | **Position** | Defender |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 8 December 1999 |
 | **Nationality** | England |
 

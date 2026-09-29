@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 18 |
 | **Position** | Forward |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 26 November 1990 |
 | **Nationality** | England |
 

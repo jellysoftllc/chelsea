@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 38 |
 | **Position** | Defender |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 24 September 1997 |
 | **Nationality** | England |
 

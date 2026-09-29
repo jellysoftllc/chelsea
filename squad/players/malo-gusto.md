@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 27 |
 | **Position** | Defender |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 19 May 2003 |
 | **Nationality** | France |
 

@@ -7,7 +7,7 @@
 |---|---|
 | **Squad number** | 1 |
 | **Position** | Goalkeeper |
-| **Preferred foot** | _add_ |
+| **Preferred foot** | Right |
 | **Date of birth** | 18 November 1997 |
 | **Nationality** | Spain |
 
